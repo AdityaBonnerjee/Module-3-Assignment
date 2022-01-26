@@ -1,5 +1,7 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers
+
 Link :
+
 Here is what you will need to complete the assignment:
 
 (If you haven't already) Create a GitHub.com account and a repository that you will use for this class.
