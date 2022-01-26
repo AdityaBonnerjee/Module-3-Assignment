@@ -1,6 +1,6 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-Link :
+Link : https://adityabonnerjee.github.io/Module-3-Assignment/module-3/
 
 Here is what you will need to complete the assignment:
 
